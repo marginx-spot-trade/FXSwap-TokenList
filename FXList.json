@@ -1086,6 +1086,15 @@
             "address": "0x4F7A8B0C35Aa437a8aB1cB414A71FA0950cEeAE1",
             "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/FXSwap-TokenList/main/Tokens/0x4F7A8B0C35Aa437a8aB1cB414A71FA0950cEeAE1/logo.png",
             "extensions": {}
+        },
+        {
+            "name": "MyToken123",
+            "chainId": 90001,
+            "symbol": "MTL",
+            "decimals": 18,
+            "address": "0xd4C48C8B2982B65b0a7fe030407D083e7A79a6a3",
+            "logoURI": "https://raw.githubusercontent.com/FunctionX-SG/FXSwap-TokenList/main/Tokens/0xd4C48C8B2982B65b0a7fe030407D083e7A79a6a3/logo-testnet.png",
+            "extensions": {}
         }
     ]
 }
